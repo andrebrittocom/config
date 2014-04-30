@@ -22,4 +22,3 @@ sudo chown -R jboss-as:jboss-as /var/lib/gi
 
 echo "Finish!"
 echo "Use: sudo service jboss-as-7 start"
-echo "For error: sudo chown -R jboss-as:jboss-as /opt/jboss-as-7"
